@@ -21,10 +21,10 @@
 
 ## About
 
-[estcequemontelephoneestallume.fr](https://estcequemontelephoneestallume.fr) is a website used to check if your computer is turned on or off.
+[estcequemontelephoneestallume.fr](https://estcequemontelephoneestallume.fr) is a website used to check if your smartphone is turned on or off.
 
-It uses modern digital technologies including latest web 3.0 criterias, as defined by the Chief Happiness operator of the World Wide Web Consortium. You can access on real time the status of your computer.
+It uses modern digital technologies including latest web 3.0 criterias, as defined by the Chief Happiness operator of the World Wide Web Consortium. You can access on real time the status of your smartphone.
 
 ## How to use
 
-To check your computer status instantly at any time, you just need to add [https://estcequemontelephoneestallume.fr](https://estcequemontelephoneestallume.fr) to your favorites links on your preferred browser. You do not need to install anything nor create any account to access your computer status.
+To check your smartphone status instantly at any time, you just need to add [https://estcequemontelephoneestallume.fr](https://estcequemontelephoneestallume.fr) to your favorites links on your preferred browser. You do not need to install anything nor create any account to access your smartphone status.

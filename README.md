@@ -6,8 +6,8 @@
 ![GitHub](https://img.shields.io/github/license/MrStanDu33/estcequemontelephoneestallume.fr)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MrStanDu33/estcequemontelephoneestallume.fr)
 
-![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%estcequemontelephoneestallume.fr)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5a38ec3650cb4f70884611f6e2611657)](https://www.codacy.com/gh/MrStanDu33/estcequemontelephoneestallume.fr/dashboard?utm_source=github.com&utm_medium=referral&utm_content=MrStanDu33/estcequemontelephoneestallume.fr&utm_campaign=Badge_Grade)
+![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%2Festcequemontelephoneestallume.fr)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0eaa4c279ebb484597ba3e1c3d2f6f1d)](https://www.codacy.com/gh/MrStanDu33/estcequemontelephoneestallume.fr/dashboard?utm_source=github.com&utm_medium=referral&utm_content=MrStanDu33/estcequemontelephoneestallume.fr&utm_campaign=Badge_Grade)
 ![W3C Validation](https://img.shields.io/w3c-validation/default?targetUrl=https%3A%2F%2Festcequemontelephoneestallume.fr%2Findex.html)
 
 ![Chromium HSTS preload](https://img.shields.io/hsts/preload/estcequemontelephoneestallume.fr)
